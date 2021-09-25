@@ -1,0 +1,35 @@
+Baptized Person/Initiate
+Buyer
+Captured Person
+Child
+Deceased Person
+Emancipated Person
+Employee
+Employer
+Leased Person
+Manumitter
+Master or Owner
+Member
+Missing Person
+Parent
+Participant
+Party
+Rebel
+Recorder
+Registered Person
+Relocated Person
+Researcher
+Resident
+Runaway
+Seller
+Sold Person
+Soldier
+Spouse
+Student
+Subject
+Vessel Captain
+Vessel Owner
+Mortgaged Person
+Appraised Person
+Mentioned Person
+Advertiser

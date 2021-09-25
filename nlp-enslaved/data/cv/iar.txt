@@ -1,0 +1,16 @@
+Aunt
+Child
+Cousin
+Employee
+Employer
+Enslaved Person
+Godchild
+Godparent
+Grandchild
+Grandparent
+In-law
+Master or Owner
+Parent
+Sibling
+Spouse
+Uncle

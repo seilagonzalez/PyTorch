@@ -1,0 +1,24 @@
+Maio 1840 (Duda).csv
+437
+Junho 1840 (Maçana).csv
+389
+Novembro 1840 (Wal).csv
+484
+Fevereiro 1840 (Farinha) .csv
+532
+Julho 1840 (AnaPaula).csv
+726
+Outubro 1840 (Amanda).csv
+681
+Agosto 1840 (Mateus).csv
+653
+Setembro 1840 (Lucas B).csv
+611
+Dezembro 1840 (Mateus).csv
+720
+Março 1840 (Laís).csv
+463
+Abril 1840 (Mateus).csv
+501
+Total
+6197
